@@ -6,7 +6,7 @@ Disallow: /api/
 Disallow: /admin/
 
 # Sitemap location
-Sitemap: https://fbvideo-downloader.app/sitemap.xml
+Sitemap: https://babu-fb-vedio-downloader.vercel.app/sitemap.xml
 
 # Crawl delay for polite crawling
 Crawl-delay: 1
