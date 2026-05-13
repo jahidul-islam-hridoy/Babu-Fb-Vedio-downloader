@@ -44,7 +44,9 @@ export default function Footer() {
 
         <div className="mt-10 pt-6 border-t border-dark-600/50 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-gray-600">
-            © 2025 FBVideo Downloader. All rights reserved. Not affiliated with Meta/Facebook.
+            © 2026 FBVideo Downloader. All rights reserved. Not affiliated with Meta/<a href="https://www.facebook.com/Jahidkhanbabu.h" target="_blank" rel="noopener noreferrer">
+  Facebook
+</a>
           </p>
           <p className="text-xs text-gray-600">
             Made with ❤️ for the community
