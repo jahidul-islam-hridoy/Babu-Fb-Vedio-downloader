@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Disallow access to API and internal paths
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: https://fbvideo-downloader.app/sitemap.xml
+
+# Crawl delay for polite crawling
+Crawl-delay: 1
